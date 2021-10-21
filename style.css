@@ -9,7 +9,7 @@
   
   font-family: 'M PLUS 1p', sans-serif;
   color: var(--black);
-  line-height: 8em;
+  line-height: 3em;
   /*禁則処理*/
   word-break: keep-all;
   line-break: strict;
