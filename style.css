@@ -31,7 +31,7 @@ h1 {
 	clear: both;
 	margin-bottom: 20px;
 	line-height: 1;
-	font-size: 12px;	/*文字サイズ（日本語表記に使っている小さな文字）*/
+	font-size: 30px;	/*文字サイズ（日本語表記に使っている小さな文字）*/
 	font-weight: normal;	/*hタグのデフォルトの太字を標準にする設定*/
 	border-bottom: 1px solid #868686;	/*下線の幅、線種、色*/
 	text-align: center;	/*文字を中央に*/
