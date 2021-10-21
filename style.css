@@ -49,7 +49,7 @@ a.twitter {
 }
 
 a.twitter:hover {
-  background-color: #177abd;
+  background-color: #177cbf;
   color: #cccccc;
 }
 
@@ -69,7 +69,7 @@ a.Github {
 }
 
 a.Github:hover {
-  background-color: #177abd;
+  background-color: #bfbfbf;
   color: #cccccc;
 }
 
@@ -83,7 +83,7 @@ a.Web {
 }
 
 a.Web:hover {
-  background-color: #177abd;
+  background-color: #cc9900;
   color: #cccccc;
 }
 
