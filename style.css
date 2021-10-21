@@ -1,0 +1,41 @@
+* {
+  --white: #ffffff;
+  --primary-blue: #4d97ff;
+  --primary-orange: #ffbf00;
+  --twitter-blue: #1d9bf0;
+  --scratch-orange: #ffbf00;
+  --black: #000000;
+  --light-gray: #cccccc;
+  
+  font-family: 'M PLUS 1p', sans-serif;
+  color: var(--black);
+  line-height: 2em;
+  /*禁則処理*/
+  word-break: keep-all;
+  line-break: strict;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+box {
+	overflow: hidden;
+	padding: 3%;	/*ボックス内の余白*/
+	margin-bottom: 50px;	/*ボックスの外（下）にあける余白*/
+	background: #fff;	/*背景色（古いブラウザ用）*/
+	background: rgba(255,255,255,0.4);	/*背景色。255,255,255は白のことで、0.4は透明度40%の事。*/
+	border: 1px solid #fff;	/*線の幅・線種・色。*/
+	border-radius: 20px;	/*角丸のサイズ*/
+}
+
+h1 {
+	clear: both;
+	margin-bottom: 20px;
+	line-height: 1;
+	font-size: 12px;	/*文字サイズ（日本語表記に使っている小さな文字）*/
+	font-weight: normal;	/*hタグのデフォルトの太字を標準にする設定*/
+	border-bottom: 1px solid #868686;	/*下線の幅、線種、色*/
+	text-align: center;	/*文字を中央に*/
+	padding-bottom: 10px;
+	letter-spacing: 0.4em;	/*文字間隔を広くとる設定*/
+}
+
