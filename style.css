@@ -8,6 +8,7 @@
   --light-gray: #cccccc;
   
   font-family: 'M PLUS 1p', sans-serif;
+	line-height: 2em;
   color: var(--black);
   /*禁則処理*/
   word-break: keep-all;
