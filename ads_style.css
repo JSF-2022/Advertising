@@ -1,0 +1,46 @@
+* {
+  --github-black: #24292f;
+  --black: #000000;
+  font-family: "Noto Sans JP";
+  line-height: 2em;
+  color: var(--black);
+  /*禁則処理*/
+  word-break: keep-all;
+  line-break: strict;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+a {
+  font-size: 25px;
+  text-decoration: none;
+  color: rgb(255 255 255 / 75%);
+}
+
+a.Github {
+  color: var(--white);
+  border-radius: 10px;
+  background-color: var(--black);
+  padding: 5px;
+  margin-right: 30px;
+  transition: all 0.3s ease 0s;
+}
+
+a.Github:hover {
+  background-color: #424242;
+  color: #cccccc;
+}
+
+a.Web {
+  color: var(--white);
+  border-radius: 10px;
+  background-color: var(--scratch-orange);
+  padding: 5px;
+  margin-right: 30px;
+  transition: all 0.3s ease 0s;
+}
+
+a.Web:hover {
+  background-color: #cc9900;
+  color: #cccccc;
+}
