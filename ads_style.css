@@ -20,7 +20,7 @@ body {
   margin :0 auto;
 }
 
-a.Github {
+a.github {
   color: var(--white);
   border-radius: 10px;
   background-color: var(--github-black);
@@ -29,12 +29,12 @@ a.Github {
   transition: all 0.3s ease 0s;
 }
 
-a.Github:hover {
+a.github:hover {
   background-color: #0d0f11;
   color: #cccccc;
 }
 
-a.Web {
+a.web {
   color: var(--white);
   border-radius: 10px;
   background-color: var(--primary-orange);
@@ -43,7 +43,7 @@ a.Web {
   transition: all 0.3s ease 0s;
 }
 
-a.Web:hover {
+a.web:hover {
   background-color: #cc9900;
   color: #cccccc;
 }
