@@ -22,6 +22,10 @@ body {
   margin: 0 auto;
 }
 
+.flex-width-set a {
+  line-height: 1.5em;
+}
+
 a.github {
   color: var(--white);
   border-radius: 10px;
