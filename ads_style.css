@@ -47,6 +47,6 @@ a.Web:hover {
   color: #cccccc;
 }
 
-.buttons * {
+.buttons a {
   margin-right: 0px;
 }
