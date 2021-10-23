@@ -12,17 +12,13 @@ body {
   border-right: solid 3px var(--primary-blue);
 }
 
-.box img {
-  max-width: 70%;
-}
-
 .buttons {
   display: flex;
   justify-content: space-between;
 }
 
 .flex-width-set {
-  width: fit-content;
+  width: 70%;
   margin: 0 auto;
 }
 
