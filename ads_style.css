@@ -12,7 +12,7 @@ body {
   border-right: solid 3px var(--primary-blue);
 }
 
-.buttons {
+.button-links {
   display: flex;
   justify-content: space-between;
 }
